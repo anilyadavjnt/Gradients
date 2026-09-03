@@ -22,7 +22,6 @@ A beautiful and simple iOS application built using **Swift + UIKit**, showcasing
 
 <img width="300" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-03 at 12 30 13" src="https://github.com/user-attachments/assets/e4119b3f-259c-438a-89b3-be0f5c80823f" />
 
-
 ## 🚀 Installation
 
 1. Clone the repository.

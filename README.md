@@ -30,9 +30,14 @@ A beautiful and simple iOS application built using **Swift + UIKit**, showcasing
 3. Select an iOS Simulator or connected device.
 4. Press **Run ▶️**.
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-** Anil Kumar Yadav **
+Anil Kumar Yadav iOS Developer | Swift | UIKit
 
+If you like this project, ⭐ star the repository and feel free to share your feedback!
 
-iOS Developer | Swift | UIKit
+Anil Yadav ( iOS Developer )
+
+LinkedIn: www.linkedin.com/in/anilyadavjnt
+Portfolio: https://portfolio-anilyadavjnt.vercel.app
+Email: anilyadavjnt@gmail.com
